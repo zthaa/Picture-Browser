@@ -1,0 +1,10 @@
+C:\Users\admin\source\repos\PictureFrom\PictureFrom\bin\Debug\PictureFrom.exe.config
+C:\Users\admin\source\repos\PictureFrom\PictureFrom\bin\Debug\PictureFrom.exe
+C:\Users\admin\source\repos\PictureFrom\PictureFrom\bin\Debug\PictureFrom.pdb
+C:\Users\admin\source\repos\PictureFrom\PictureFrom\obj\Debug\PictureFrom.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\PictureFrom\PictureFrom\obj\Debug\PictureFrom.Form1.resources
+C:\Users\admin\source\repos\PictureFrom\PictureFrom\obj\Debug\PictureFrom.Properties.Resources.resources
+C:\Users\admin\source\repos\PictureFrom\PictureFrom\obj\Debug\PictureFrom.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\PictureFrom\PictureFrom\obj\Debug\PictureFrom.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\PictureFrom\PictureFrom\obj\Debug\PictureFrom.exe
+C:\Users\admin\source\repos\PictureFrom\PictureFrom\obj\Debug\PictureFrom.pdb
